@@ -1,6 +1,8 @@
 " ZSH{
 
 	sudo apt install zsh 
+	gcl https://github.com/robbyrussell/oh-my-zsh
+	gcl https://github.com/zsh-users/zsh-syntax-highlighting
 
 " }
 
