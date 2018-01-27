@@ -1,0 +1,25 @@
+" ZSH{
+
+	sudo apt install zsh 
+
+" }
+
+" Neovim{
+
+	sudo apt install neovim
+	sudo apt install vim-youcompleteme
+	sudo apt install python3-pip
+	sudo pip3 install --upgrade neovim
+	sudo apt install exuberant-ctag
+	gcl https://github.com/ryanoasis/nerd-fonts
+	sudo apt install powerline
+	ln -s ~/.vim ~/.config/nvim
+	ln -s ~/.vimrc ~/.config/nvim/init.vim
+
+" }
+
+" Tmux{
+
+	sudo apt install tmux
+
+" }
